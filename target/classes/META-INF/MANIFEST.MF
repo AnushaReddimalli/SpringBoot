@@ -1,0 +1,10 @@
+Manifest-Version: 1.0
+Implementation-Title: opus
+Implementation-Version: 0.0.1-SNAPSHOT
+Built-By: Anusha
+Implementation-Vendor-Id: com.att.product
+Build-Jdk: 1.8.0_121
+Implementation-URL: http://projects.spring.io/spring-boot/opus/
+Created-By: Maven Integration for Eclipse
+Implementation-Vendor: Pivotal Software, Inc.
+
